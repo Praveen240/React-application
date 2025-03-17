@@ -1,0 +1,24 @@
+.home-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 3rem 2rem;
+    text-align: center;
+    background: #262424;
+    margin-top: 90%; /* Adjust based on header height */
+}
+
+.home-header {
+    max-width: 800px;
+    margin-bottom: 3rem;
+}
+
+.home-header h1 {
+    font-weight: bold;
+    color: #EEE5DA;
+}
+
+.home-header p {
+    font-size: 1.2rem;
+    color: #afa8a8;
+}
