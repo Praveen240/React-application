@@ -1,12 +1,16 @@
 import "./About_us.css";
 import shewagImg from "../pages/shewag.jpg";
 import praveenImg from "../pages/praveen.jpg";
+import kamalImg from "../pages/kamal.jpg";
+import NavinImg from "../pages/navin.jpg";
+
+
 
 
 const teamMembers = [
   { name: "Praveen", role: "Software Developer", imgSrc: praveenImg },
-  { name: "Navin", role: "Software Developer", imgSrc: "" },
-  { name: "Kamal", role: "Software Developer", imgSrc: "" },
+  { name: "Navin", role: "Software Developer", imgSrc: NavinImg },
+  { name: "Kamal", role: "Software Developer", imgSrc: kamalImg },
   { name: "Veerendra Sehwag", role: "Software Developer", imgSrc: shewagImg },
 ];
 
